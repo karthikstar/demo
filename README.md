@@ -1,3 +1,3 @@
 # Demo 
 
-just refreshing memory on github git.
+just recapping on github git.
